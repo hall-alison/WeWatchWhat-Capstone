@@ -2,7 +2,7 @@
 ​
 This is a Movie Recommendation Application that helps users discover new films based on their preferences and on the age of the user.
 
-Visit the website here: https://lemon-glacier-07200871e-preview.westus2.5.azurestaticapps.net/landing 
+
 ​
 Personalized Recommendations: Get movie suggestions tailored to your favorite films.
 Search and Filter: Easily search for films by genre, title and popularity.
