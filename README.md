@@ -1,13 +1,13 @@
 # Final Capstone
 ​
-This is a Movie Recommendation Application that helps users discover new films based on their preferences and on the age of the user.
+This is a Movie Recommendation Application that helps users discover new films based on their preferences and on the age of the user.<br>
 
-Check out the webiste here: https://lemon-glacier-07200871e-preview.westus2.5.azurestaticapps.net/ .
+Check out the webiste here: https://lemon-glacier-07200871e-preview.westus2.5.azurestaticapps.net/
 ​
-Personalized Recommendations: Get movie suggestions tailored to your favorite films.
-Search and Filter: Easily search for films by genre, title and popularity.
-Trending Movies: Stay up-to-date with the latest and most popular films.
-Detailed Movie Information: Access ratings, reviews, and movie descriptions.
+<p>Personalized Recommendations: Get movie suggestions tailored to your favorite films.<br>
+Search and Filter: Easily search for films by genre, title and popularity.<br>
+Trending Movies: Stay up-to-date with the latest and most popular films.<br>
+Detailed Movie Information: Access ratings, reviews, and movie descriptions.<br></p>
 
 
 Landing Page:
